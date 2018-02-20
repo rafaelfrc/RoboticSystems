@@ -1,4 +1,4 @@
-# RoboticSystems
+# Robotic Systems
 
 Estudos em Robótica e Visão Computacional usando
 
