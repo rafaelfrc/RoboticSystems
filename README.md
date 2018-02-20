@@ -12,8 +12,5 @@ Os LiveScripts MATLAB foram traduzidos para m-files, para se tornar mais amigáv
 
 ## Fundamentos:
 ### Representações de posição & Orientação:
-#### Pose em 2 dimensões:
-* [Live Script](html/live_01_pose_in_2D.html)
-
-#### Pose em 3 dimensões:
-* [Live Script](html/live_02_pose_in_3D.html)
+* [Pose em 2 dimensões](html/live_01_pose_in_2D.html)
+* [Pose em 3 dimensões](html/live_02_pose_in_3D.html)
