@@ -10,7 +10,7 @@ https://rafaelfrc.github.io/RoboticSystems/
 
 A bibliografia fundamental deste roteiro de estudos é o livro do Peter Corke: Robotics, Vision and Control: Fundamental Algorithms In MATLAB®
 
-Os LiveScripts MATLAB foram traduzidos para m-files, para se tornar mais amigável para leitura de código. Conforme a Biblioteca em Python Robopy ganha maturidade, todos os m-files serão disponibilizados em notebook Jupyter.
+Os m-files esto acessíveis no código fonte do HTML. O objetivo é que as implementações sejam disponibilizadas também em notebooks Jupyter, à medida que a Biblioteca em Python RoboPy ganha maturidade.
 
 
 
