@@ -21,3 +21,16 @@ Os m-files esto acessíveis no código fonte do HTML. O objetivo é que as imple
 
 ### Tempo & Movimento:
 * [Trajetórias](html/live_03_trajetorias.html)
+* [Frames variantes no tempo](html/live_04_coord_var_tempo.html)
+
+## Controle de Braços Robóticos
+
+## Robótica Móvel
+
+## Visão Computacional
+
+## Inteligência Artificial
+
+## Robot Operating System (ROS)
+
+## Robótica Industrial
